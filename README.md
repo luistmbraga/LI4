@@ -3,9 +3,11 @@
 
 Repositório para o trabalho prático da UC de Laboratórios de Informática IV
 
-Comentário:
+Comentários:
 
 
-Na pasta Apreciações encontram-se as apreciações feitas pelos docentes nas duas primeiras fases.
+Usar SQL server.
+
+Material de apoio dado nos seminários: https://github.com/brunobmo/ASP.NET-Training
 
 Nota: valores
