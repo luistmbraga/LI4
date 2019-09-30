@@ -5,9 +5,8 @@ Repositório para o trabalho prático da UC de Laboratórios de Informática IV
 
 Comentários:
 
-
-Usar SQL server.
+Tentamos fazer um pouco de tudo sem fazer realmente alguma coisa a 100%. O objectivo é arquitectar software a 100% e cumprir esse planeamento, **se possível**, a 100% ou pelo menos cobrir na implementação os uses cases principais que caracterizam essa aplicação.
 
 Material de apoio dado nos seminários: https://github.com/brunobmo/ASP.NET-Training
 
-Nota: valores
+Nota: 14 valores
